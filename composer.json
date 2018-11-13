@@ -1,5 +1,5 @@
 {
-  "name": "epfremme/swagger-php",
+  "name": "raffis/swagger-php",
   "license": "MIT",
   "type": "package",
   "description": "Library for parsing swagger documentation into PHP entities for use in testing and code generation",

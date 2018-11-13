@@ -7,7 +7,6 @@
 namespace Epfremme\Swagger\Parser;
 
 use Epfremme\Swagger\Exception\InvalidVersionException;
-use Symfony\Component\Yaml\Yaml;
 
 /**
  * Class SwaggerParser
